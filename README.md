@@ -34,6 +34,4 @@ npm install react-dom@18.2.0
 ready - started server on 0.0.0.0:3000, url: http://localhost:3000
 error - Project directory could not be found, restart Next.js in your new directory
 
-# eguimos a diante...
-
-S
+# Seguimos a diante...
