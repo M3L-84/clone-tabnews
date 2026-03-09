@@ -6,7 +6,7 @@ Aprendendo a programar do zero.
 
 # "Se você deseja uma torta de maçã do zero, você deve, primeiro, criar o universo." - Carl Sagan -
 
-# O primeiro passo: Verificar a versão do Node para que o esteja compatível as aulas do professor, usando todas as bibliotecas, versionamentos e pacotes necessários. Exemplos:
+O primeiro passo: Verificar a versão do Node para que o esteja compatível as aulas do professor, usando todas as bibliotecas, versionamentos e pacotes necessários. Exemplos:
 
 nvm help
 nvm default lts/hydrogen
@@ -24,7 +24,7 @@ npm install next@13.1.6
 npm install react@18.2.0
 npm install react-dom@18.2.0
 
-# No package.json faça o seguinte ajuste:
+* No package.json faça o seguinte ajuste:
 
 "test": "echo \"Error: no test specified\" && exit 1" (REMOVA ESSA LINHA E SUBSTITUA) POR:
 "dev": "next "
